@@ -3,7 +3,7 @@ SyncFusion Test Repo
 
 npm install
 
-npm run
+npm start
 
 localhost:4200
 
